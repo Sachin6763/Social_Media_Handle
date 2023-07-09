@@ -17,7 +17,7 @@ Key Principles :
 Installation and Setup : 
 
 1. Clone the repository:
-   git clone https://github.com/your-username/SmoothConnect.git
+   git clone "https://github.com/Sachin6763/Social_Media_Handle.git"
 
 2. create executable file which is ./main
    gcc main.c graphs.c helping_functions.c functionalities.c login_page.c "Library/HashMap/HashMap.c" "Library/Queue/Queue.c" "Library/PriorityQueue/Heaps.c"    "Security/Encryption.c" -o main
