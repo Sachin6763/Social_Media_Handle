@@ -20,7 +20,12 @@ Installation and Setup :
    git clone https://github.com/your-username/SmoothConnect.git
 
 2. create executable file which is ./main
-   gcc main.c graphs.c helping_functions.c login_page.c functionalities.c 
+   gcc main.c graphs.c helping_functions.c functionalities.c login_page.c "Library/HashMap/HashMap.c" "Library/Queue/Queue.c" "Library/PriorityQueue/Heaps.c"    "Security/Encryption.c" -o main
+
+3. If previos main (executable file) is already there, run that.
+   ./main
+
+
 
 
 
