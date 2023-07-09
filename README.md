@@ -1,0 +1,1 @@
+SmoothConnect is a communication platform designed to facilitate smooth messaging, group creation, broadcasting, and connection establishment. It prioritizes reliability, security, and user-friendliness to provide a seamless communication experience for users.
