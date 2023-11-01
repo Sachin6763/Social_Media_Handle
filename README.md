@@ -1,5 +1,3 @@
-# Social_Media_Handle-Smooth_Connect
-
 # Smooth Connect - Social Media Handle
 
 Smooth Connect is a secure social media platform built entirely in C, focusing on providing users with a safe and seamless communication experience. It prioritizes security through encryption and offers various features for secure messaging, group collaboration, and more. The project utilizes a file-based database to store user interactions, ensuring the restoration of communication history.
@@ -48,4 +46,4 @@ We welcome contributions from the community. If you want to contribute to this p
 
 ## Contact
 
-If you have any questions, suggestions, or issues, please feel free to contact us at [your-email@example.com].
+If you have any questions, suggestions, or issues, please feel free to contact us at sachinsugadare7703@gmail.com .
