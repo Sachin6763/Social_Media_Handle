@@ -34,7 +34,6 @@ Follow these steps to get started with Smooth Connect on your local machine:
    cd build
    cmake ..
    make
-   .final
    ```
    
 
