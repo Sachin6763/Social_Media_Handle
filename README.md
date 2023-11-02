@@ -18,20 +18,34 @@ Follow these steps to get started with Smooth Connect on your local machine:
 
 1. **Clone the Repository:**
    ```
-   git clone <repository-url>
+   git clone "https://github.com/Sachin6763/Social_Media_Handle-Smooth_Connect.git"
    ```
 
 2. **Compile the Code:**
+
+   i) *Using gcc 
    ```
-   gcc main.c -o smooth_connect
+   gcc "source_files/main.c" "source_files/graphs.c" "source_files/helping_functions.c" "source_files/login_page.c" "source_files/functionalities.c" "Library/HashMap/HashMap.c" "Library/PriorityQueue/Heaps.c" "Library/Queue/queue.c" "Security/encryption.c" -o final
    ```
 
-3. **Run the Application:**
+   ii) *Using build
+   ```
+   mkdir build
+   cd build
+   cmake ..
+   make
+   .final
+   ```
+   
+
+
+
+4. **Run the Application:**
    ```
    ./final
    ```
 
-4. **Follow On-Screen Instructions:** Launch the application and follow the on-screen instructions to set up your profile, connect with others, and start communicating securely.
+5. **Follow On-Screen Instructions:** Launch the application and follow the on-screen instructions to set up your profile, connect with others, and start communicating securely.
 
 ## Contributing
 
