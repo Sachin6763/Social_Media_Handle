@@ -23,12 +23,12 @@ Follow these steps to get started with Smooth Connect on your local machine:
 
 2. **Compile the Code:**
 
-   i) *Using gcc 
+   i) Using gcc 
    ```
    gcc "source_files/main.c" "source_files/graphs.c" "source_files/helping_functions.c" "source_files/login_page.c" "source_files/functionalities.c" "Library/HashMap/HashMap.c" "Library/PriorityQueue/Heaps.c" "Library/Queue/queue.c" "Security/encryption.c" -o final
    ```
 
-   ii) *Using build
+   ii) Using build
    ```
    mkdir build
    cd build
